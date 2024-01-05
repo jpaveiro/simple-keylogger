@@ -1,2 +1,10 @@
-# simple-keylogger
-A simple keylogger with educational purposes.
+# Instructions to use
+
+## Requirements
+...
+
+## Installation
+...
+
+## Usage
+...
